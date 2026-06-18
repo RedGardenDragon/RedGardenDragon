@@ -1,56 +1,45 @@
-<h1 align="center">Hi there, I'm Sebastian Guerra 👋</h1>
-<h3 align="center">💻 Junior Developer · DAW Student · Spain</h3>
+# Hola, soy Sebastián Guerra 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Java+%7C+HTML+%7C+CSS+%7C+SQL+%7C+Git;Building+real-world+projects;Open+to+junior+opportunities" alt="Typing SVG" />
-</p>
+### Estudiante de DAW · Uceda, Guadalajara
 
 ---
 
-## 🙋‍♂️ About Me
+Estoy en primero de Desarrollo de Aplicaciones Web en el IES García Valdemora (El Casar, Guadalajara). Vengo de Colombia y llevo un tiempo viviendo en España, aprendiendo y practicando todo lo que puedo sobre programación.
 
-- 🎓 Studying **Desarrollo de Aplicaciones Web (DAW)** at IES García Valdemora, El Casar (Guadalajara)
-- 📍 Based in **Uceda, Guadalajara, Spain**
-- 🌱 Currently learning **Java, SQL, HTML/CSS and Git**
-- 🚀 Looking for my **first junior IT opportunity**
-- 📫 Contact me: **sebastguerra578@gmail.com**
-- 🔗 LinkedIn: [in/sebastian-manrique](https://www.linkedin.com/in/sebastian-manrique)
+Me meto mucho con Java, HTML y CSS, y también estoy aprendiendo SQL y a manejar Git. Todavía me queda mucho por aprender, pero me gusta cómo va todo.
 
 ---
 
-## 🛠️ Tech Stack
+## Tecnologías que uso
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-## 📂 Featured Projects
+## Algunos proyectos
 
-| Project | Description | Tech |
+| Proyecto | De qué va | Lenguaje |
 |---|---|---|
-| [PROG_2425](https://github.com/RedGardenDragon/PROG_2425) | Programming exercises – DAW 1st year | Java |
-| [U07_Actividades](https://github.com/RedGardenDragon/U07_Actividades) | Java activities from DAW | Java |
-| [Pagina_incidencias_ayuntamiento](https://github.com/RedGardenDragon/Pagina_incidencias_ayuntamiento) | Incidents management web page | HTML |
-| [Formato-horas-xiomara](https://github.com/RedGardenDragon/Formato-horas-xiomara) | Hours tracking format | HTML |
+| [PROG_2425](https://github.com/RedGardenDragon/PROG_2425) | Ejercicios de clase de programación | Java |
+| [U07_Actividades](https://github.com/RedGardenDragon/U07_Actividades) | Actividades de la unidad 7 | Java |
+| [Pagina_incidencias_ayuntamiento](https://github.com/RedGardenDragon/Pagina_incidencias_ayuntamiento) | Página web para gestionar incidencias | HTML |
+| [Formato-horas-xiomara](https://github.com/RedGardenDragon/Formato-horas-xiomara) | Formato para registro de horas | HTML |
 
 ---
 
-## 📊 GitHub Stats
+## Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RedGardenDragon&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedGardenDragon&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RedGardenDragon&show_icons=true&theme=tokyonight&hide_border=true&locale=es" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedGardenDragon&layout=compact&theme=tokyonight&hide_border=true&locale=es" width="48%" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RedGardenDragon&label=Profile+views&color=58a6ff&style=flat" alt="profile views" />
-</p>
+**Contacto:** sebastguerra578@gmail.com
